@@ -1,0 +1,48 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    align-items: center;
+}
+
+.orange-color{
+    color: orange;
+}
+
+h3{
+    font-weight: 800;
+    color: gray;
+}
+
+.link-button{
+    text-decoration: none;
+    background: radial-gradient(tomato, salmon);
+    border-radius: 20px;
+    padding: 10px 20px;
+    color: white;
+}
+
+.flexible{
+    display: flex;
+    padding: 100px;
+}
+
+.half-width{
+    width: 50%;
+}
+
+.about{
+    background-image: url("images/shapes/Frame\ 59.jpg");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.wide{
+    margin-left: 100px;
+}
+
+.about img{
+    height: 400px;
+}
+
+.recipe{
+    text-align: center;
+}
